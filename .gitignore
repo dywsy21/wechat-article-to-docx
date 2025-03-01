@@ -2,3 +2,4 @@
 output
 *.xml
 *.docx
+**/__pycache__
