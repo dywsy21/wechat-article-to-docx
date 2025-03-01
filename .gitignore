@@ -3,3 +3,4 @@ output
 *.xml
 *.docx
 **/__pycache__
+templates
